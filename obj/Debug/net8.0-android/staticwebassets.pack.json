@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Gaurav Dahal\\Desktop\\Application Development\\Application Development\\Application Development\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\Application Development.styles.css",
+      "PackagePath": "staticwebassets\\Application Development.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Gaurav Dahal\\Desktop\\Application Development\\Application Development\\Application Development\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Gaurav Dahal\\Desktop\\Application Development\\Application Development\\Application Development\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gaurav Dahal\\Desktop\\Application Development\\Application Development\\Application Development\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gaurav Dahal\\Desktop\\Application Development\\Application Development\\Application Development\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Gaurav Dahal\\Desktop\\Application Development\\Application Development\\Application Development\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.Application Development.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.Application Development.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.Application Development.props",
+      "PackagePath": "build\\Application Development.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.Application Development.props",
+      "PackagePath": "buildMultiTargeting\\Application Development.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.Application Development.props",
+      "PackagePath": "buildTransitive\\Application Development.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

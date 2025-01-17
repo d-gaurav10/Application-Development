@@ -1,0 +1,66 @@
+﻿@using Trackfy.Models
+@inherits LayoutComponentBase
+
+<!-- CascadingValue is used to share RequiredDetails across child components -->
+<CascadingValue Value="@requiredDetails">
+    <div class="page">
+        <main>
+            <article class="content px-4">
+                @Body
+            </article>
+        </main>
+    </div>
+</CascadingValue>
+
+@code
+{
+
+    // RequiredDetails class with additional CurrencySymbols property and methods
+    public class RequiredDetails
+    {
+        public List<UserModel> user_info_list { get; set; }
+        public List<TransactionModel> transactions_info_list { get; set; }
+        public List<DebtModel> debt_info_list { get; set; }
+        public string CurrencyTypeUser { get; set; }
+        public string CurrentUserUsername { get; set; }
+        public List<Dictionary<string, string>> FirstLoginCurrencyType { get; set; }
+
+        // CurrencySymbols dictionary
+        public Dictionary<string, string> CurrencySymbols { get; set; } = new()
+        {
+            { "USD", "$" },
+            { "NPR", "Rs." },
+            { "YEN", "¥" },
+            { "INR", "₹" }
+        };
+
+        // Method to get currency symbol based on the currency type
+        public string GetCurrencySymbol(string currencyType)
+        {
+            return CurrencySymbols.ContainsKey(currencyType) ? CurrencySymbols[currencyType] : "";
+        }
+    }
+
+    // Instance of RequiredDetails to be shared with child components
+    public RequiredDetails requiredDetails = new RequiredDetails()
+        {
+            user_info_list = new List<UserModel>()
+            {
+                new UserModel(
+                    user_AvailableBalance: 0.0f,
+                    user_DebtBalance: 0.0f,
+                    user_firstName: "user",
+                    user_lastName: "user",
+                    user_type: "user",
+                    user_username: "user",
+                    user_userPassword: "user" // Default user for test
+                ),
+            },
+            transactions_info_list = new List<TransactionModel>(),
+            debt_info_list = new List<DebtModel>(),
+            CurrencyTypeUser = "",
+            CurrentUserUsername = "",
+            FirstLoginCurrencyType = new List<Dictionary<string, string>>()
+        };
+
+}

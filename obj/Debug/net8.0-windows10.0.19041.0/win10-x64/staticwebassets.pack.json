@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Trackfy.styles.css",
+      "PackagePath": "staticwebassets\\Trackfy.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\wwwroot\\logo.svg",
+      "PackagePath": "staticwebassets\\logo.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.Trackfy.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.Trackfy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.Trackfy.props",
+      "PackagePath": "build\\Trackfy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.Trackfy.props",
+      "PackagePath": "buildMultiTargeting\\Trackfy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.Trackfy.props",
+      "PackagePath": "buildTransitive\\Trackfy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04AC9F3E-A980-4F6D-870E-519878805B92}|Trackfy.csproj|c:\\users\\gaurav dahal\\desktop\\22085408 gaurav dahal\\trackfy\\components\\pages\\register.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AC9F3E-A980-4F6D-870E-519878805B92}|Trackfy.csproj|solutionrelative:components\\pages\\register.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AC9F3E-A980-4F6D-870E-519878805B92}|Trackfy.csproj|c:\\users\\gaurav dahal\\desktop\\22085408 gaurav dahal\\trackfy\\components\\pages\\login.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AC9F3E-A980-4F6D-870E-519878805B92}|Trackfy.csproj|solutionrelative:components\\pages\\login.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AC9F3E-A980-4F6D-870E-519878805B92}|Trackfy.csproj|c:\\users\\gaurav dahal\\desktop\\22085408 gaurav dahal\\trackfy\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AC9F3E-A980-4F6D-870E-519878805B92}|Trackfy.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AC9F3E-A980-4F6D-870E-519878805B92}|Trackfy.csproj|c:\\users\\gaurav dahal\\desktop\\22085408 gaurav dahal\\trackfy\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04AC9F3E-A980-4F6D-870E-519878805B92}|Trackfy.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AC9F3E-A980-4F6D-870E-519878805B92}|Trackfy.csproj|c:\\users\\gaurav dahal\\desktop\\22085408 gaurav dahal\\trackfy\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AC9F3E-A980-4F6D-870E-519878805B92}|Trackfy.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AC9F3E-A980-4F6D-870E-519878805B92}|Trackfy.csproj|c:\\users\\gaurav dahal\\desktop\\22085408 gaurav dahal\\trackfy\\components\\pages\\dashboard.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AC9F3E-A980-4F6D-870E-519878805B92}|Trackfy.csproj|solutionrelative:components\\pages\\dashboard.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AC9F3E-A980-4F6D-870E-519878805B92}|Trackfy.csproj|c:\\users\\gaurav dahal\\desktop\\22085408 gaurav dahal\\trackfy\\components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04AC9F3E-A980-4F6D-870E-519878805B92}|Trackfy.csproj|solutionrelative:components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AC9F3E-A980-4F6D-870E-519878805B92}|Trackfy.csproj|c:\\users\\gaurav dahal\\desktop\\22085408 gaurav dahal\\trackfy\\models\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AC9F3E-A980-4F6D-870E-519878805B92}|Trackfy.csproj|solutionrelative:models\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:55:16.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\Components\\Pages\\Dashboard.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\Dashboard.razor.cs",
+              "ToolTip": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\Components\\Pages\\Dashboard.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\Dashboard.razor.cs",
+              "ViewState": "AgIAABwDAAAAAAAAAAAgwGEDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:40:54.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T14:32:06.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\Components\\Pages\\Login.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\Login.razor.cs",
+              "ToolTip": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\Components\\Pages\\Login.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\Login.razor.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowKMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:43:23.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAMwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:23:18.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.razor",
+              "DocumentMoniker": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\Components\\Pages\\Dashboard.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Dashboard.razor",
+              "ToolTip": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\Components\\Pages\\Dashboard.razor",
+              "RelativeToolTip": "Components\\Pages\\Dashboard.razor",
+              "ViewState": "AgIAAFkDAAAAAAAAAAAewFUDAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T11:21:27.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\Components\\Pages\\Register.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\Register.razor.cs",
+              "ToolTip": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\Components\\Pages\\Register.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\Register.razor.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwGAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:57:11.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppData.cs",
+              "DocumentMoniker": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\Models\\AppData.cs",
+              "RelativeDocumentMoniker": "Models\\AppData.cs",
+              "ToolTip": "C:\\Users\\Gaurav Dahal\\Desktop\\22085408 Gaurav Dahal\\Trackfy\\Models\\AppData.cs",
+              "RelativeToolTip": "Models\\AppData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:30:39.129Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

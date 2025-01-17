@@ -1,0 +1,169 @@
+﻿@page "/"
+@using static Trackfy.Components.Layout.MainLayout
+@inject IJSRuntime JS
+@inject NavigationManager Navigation
+
+<div class="container">
+    <div class="left-panel">
+        <img src="./logo.svg" alt="Trackify Logo" class="logo" />
+    </div>
+    <div class="right-panel">
+        <h2>Login</h2>
+
+        <form>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Enter username:</label>
+                <input type="text" class="form-control" id="exampleInputEmail1" @bind="username" placeholder="Enter username" />
+                <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+            </div>
+
+            <div class="mb-3">
+                <label for="exampleInputPassword1" class="form-label">Enter Password:</label>
+                <input type="password" class="form-control" id="exampleInputPassword1" @bind="password" placeholder="Enter password" />
+            </div>
+
+            <div class="mb-3">
+                <label for="currencyType" class="form-label">Select the currency type:</label>
+                <select class="form-select" id="currencyType" aria-label="Currency type" @bind="currencyType">
+                    <option value="" selected disabled>Select the currency type</option>
+                    <option value="NPR">NPR</option>
+                    <option value="USD">USD</option>
+                    <option value="YEN">YEN</option>
+                    <option value="INR">INR</option>
+                </select>
+            </div>
+
+            <button type="button" class="btn btn-primary" @onclick="LoginUser">Login</button>
+            <div class="separator">OR</div>
+            <NavLink class="nav-link" href="register" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span>  <button type="button" class="btn-secondary">Register New Account</button>
+            </NavLink>
+        </form>
+       
+        
+    </div>
+</div>
+
+<script>
+    function showAlert(message) {
+        alert(message);
+    }
+</script>
+
+<style>
+    .container {
+        display: flex;
+        height: 100vh;
+        font-family: Poppins, sans-serif;
+    }
+
+    .left-panel {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: white;
+        padding: 20px;
+        border-right: 2px solid #ddd;
+    }
+
+    .logo {
+        width: 100px;
+        margin-bottom: 20px;
+    }
+
+    .left-panel h1 {
+        font-size: 30px;
+        font-weight: bold;
+    }
+
+    .right-panel {
+        flex: 1.5;
+        background-color: #dfffd6;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 40px;
+    }
+
+        .right-panel h2 {
+            font-size: 30px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+    form {
+        width: 80%;
+        max-width: 400px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .form-label {
+        font-weight: bold;
+        font-size: 14px;
+    }
+
+    .form-control {
+        border-radius: 5px;
+        padding: 10px;
+        font-size: 14px;
+        width: 100%;
+    }
+
+    .btn-primary {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        color: white;
+        background-color: #2d2e83;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        .btn-primary:hover {
+            background-color: #1f1f5e;
+        }
+
+    .form-select {
+        padding: 10px;
+        border-radius: 5px;
+        margin-top: 10px;
+        width: 100%;
+    }
+
+    .mb-3 {
+        margin-bottom: 20px;
+    }
+
+    .form-text {
+        font-size: 12px;
+        color: gray;
+    }
+
+    
+    .btn-secondary {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        color: black;
+        background-color: #ffe4e1;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        .btn-secondary:hover {
+            background-color: #ffcccc;
+        }
+
+    .separator {
+        text-align: center;
+        margin: 15px 0;
+        font-size: 14px;
+        color: #777;
+    }
+</style>
